@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pekerjaan">
+        <item>Wiraswasta</item>
+        <item>PNS</item>
+        <item>TNI</item>
+        <item>Tidak Bekerja</item>
+    </string-array>
+
+</resources>
