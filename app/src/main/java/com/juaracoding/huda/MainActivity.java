@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity{
 
 
         txtUsername.setText("huda");
-        txtPassword.setText("asd123");
+        txtPassword.setText("asd12");
 
         btnLogin.setOnClickListener(new View.OnClickListener() {
             @Override
